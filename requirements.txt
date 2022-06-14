@@ -11,3 +11,6 @@ psycopg2-binary==2.9.3
 flake8==3.9.2
 black==22.3.0
 isort==5.10.1
+djoser==2.1.0
+djangorestframework-simplejwt==4.8.0
+PyJWT==2.4.0
